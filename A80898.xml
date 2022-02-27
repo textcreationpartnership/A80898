@@ -1,0 +1,158 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration of His Highnesse the Lord Protector for a day of publick thanksgiving</title>
+            <author>England and Wales. Lord Protector (1653-1658 : O. Cromwell)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1658</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80898</idno>
+            <idno type="STC">Wing C7067</idno>
+            <idno type="STC">Thomason E1073_5</idno>
+            <idno type="STC">ESTC R208257</idno>
+            <idno type="EEBO-CITATION">99867221</idno>
+            <idno type="PROQUEST">99867221</idno>
+            <idno type="VID">119525-01</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80898)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 119525-01)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 160:E1073[5], 249:E1073[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration of His Highnesse the Lord Protector for a day of publick thanksgiving</title>
+                  <author>England and Wales. Lord Protector (1653-1658 : O. Cromwell)</author>
+                  <author>Cromwell, Oliver, 1599-1658.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Henry Hills and John Field, Printers to His Highness,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1658.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dated at end: Given at White-hall this third day of July, 1658.</note>
+                  <note>Initial letter; text in black letter.</note>
+                  <note>Annotation on Thomason copy: "July 5".</note>
+                  <note>Reproductions of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Fasts and feasts --  Great Britain --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:119525-01:1" rendition="simple:additions"/>
+            <p>A DECLARATION OF HIS HIGHNESSE THE Lord Protector for a day of publick THANKSGIVING.</p>
+            <figure>
+               <figDesc>coat of arms or blazon</figDesc>
+               <head>OLIVARIVS DEI GRA: REIPVB: ANGLIAE, SCOTIAE, ET HIBERNIAE, &amp; PROTECTOR</head>
+            </figure>
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>Henry Hills</hi> and <hi>John Field,</hi> Prin<g ref="char:EOLhyphen"/>ters to His Highneſs. 1658.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:119525-01:2"/>
+            <pb n="1" facs="tcp:119525-01:2"/>
+            <head>A DECLARATION OF HiS HIGHNES the Lord PROTECTOR for a day of Publick Thankſgiving.</head>
+            <p>
+               <seg rend="decorInit">W</seg>E being conſcious of the Mercy of thoſe diſpenſations, which have come very thick upon Vs within the ſpace of Five mo<g ref="char:EOLhyphen"/>neths laſt paſt, cannot but think Our Self obliged to call for a Day of Thankſgiving in theſe Nations; which that it might be the more ſeriouſly and ſpiritually performed, We have thought it meet to make a brief Remembrance, and as it were in a Glaſs, to repreſent the ſtate of Our Affairs, as they ſtood much about the beginning of the time before mentioned, and ſummarily to rehearſe thoſe things, which God hath wrought for Vs within that time; that ſo all ſuch as fear God, and are wiſe to obſerve theſe things, and thereby underſtand<g ref="char:EOLhyphen"/>ing the loving kindneſs of the Lord, may have their hearts and mouths filled with his praiſe.</p>
+            <p>It is well known that the laſt Parliament did, by Adjournment, meet the Twentieth day of <hi>January</hi> laſt paſt, and that theſe Nations had very good hopes, by thoſe preparations made in their former Sitting, that We ſhould have gone on upon thoſe Foundations, to an happy Settlement: But thoſe hopes were
+<pb n="2" facs="tcp:119525-01:3"/> ſoon daſhed, through the intemperance of ſome mens Spirits; Notwithſtanding it was throughly repreſented, that the old Enemy had a deſign of an immediate Invaſion, with an Army conſiſting of Papiſts and Atheiſts, upon the accompt of <hi>Charles Stuart,</hi> in conjunction with the King of <hi>Spain,</hi> in whoſe Counſels it was agreed more adviſeable to give Vs work in <hi>England,</hi> rather then that We ſhould aſſiſt the <hi>French,</hi> to engage them in their own Countrey. It being alſo at the ſame time moſt viſible, that diverſe of the inferiour ſort of people (ſet on by men of the ſame Spirit with them before hinted at) and naturally fluctuating, were en<g ref="char:EOLhyphen"/>clined to dangerous commotions, ſeeing the diſputes were more readily taken up and im<g ref="char:EOLhyphen"/>proved, then the putting in execution, and pro<g ref="char:EOLhyphen"/>ſecuting the agreements before made; and that the Army ſeemed to have ſome unſettlement in it ſelf, partly ariſing from the before mention<g ref="char:EOLhyphen"/>ed diſappointment; partly from the great wants which were upon them, and fears of being neceſſitated to take free Quarter upon the People (then which, nothing could be more abhorrent to them) the Trade of the Na<g ref="char:EOLhyphen"/>tion, and Our Honour at Sea ready to be ha<g ref="char:EOLhyphen"/>zarded and loſt for want of due Supplies, We being forced to keep Our men of War out at Sea, not having money to pay Our Mari<g ref="char:EOLhyphen"/>ners when they came in. In the mean time Our Neighbours every where preparing greater Fleets then uſual, and even they in <hi>Flanders</hi> themſelves, having made ready a Fleet of above twenty men of War at <hi>Oſtend,</hi> for the tranſporting of <hi>Charles Stuart,</hi> and his <hi>Spaniſh</hi> Forces to invade Vs. In order whereunto,
+<pb n="3" facs="tcp:119525-01:3"/> divers of Our Garriſons were by Bribes en<g ref="char:EOLhyphen"/>deavoured to be gained, for receiving the ſaid invading Army, and Inſurrections deſigned and laid in ſeveral Counties by the Malignant Party, to riſe in aſſiſtance of the ſaid Invaſi<g ref="char:EOLhyphen"/>on, accompanied alſo with that deſperate de<g ref="char:EOLhyphen"/>ſign of firing the City of <hi>London,</hi> and ſeiſing upon the Treaſure that could be found there; which wicked Plot was managed by many Colonels, and other chief Officers, who were to head this Tragical Action: All which hath been made evident, as well by clear proofs a<g ref="char:EOLhyphen"/>gainſt, as by the confeſſions of divers of the perſons engaged therein; ſome of which have already ſuffered the paines of Death; and fur<g ref="char:EOLhyphen"/>ther Examinations touching others are ſtill going on, that all the world may ſee that theſe things have not been matters of invention or ſurmiſe, but real and demonſtrable truths, and things, that as they heighten greatly the danger, ſo alſo the recital of them tends to Our end in making this Narrative, which is the magnifying of the good hand of God to<g ref="char:EOLhyphen"/>wards Vs in Our deliverance.</p>
+            <p>And laſtly, (which did not the leaſt afflict Vs) We had cauſe deeply to apprehend, that the Lords hand was upon Vs in that Epide<g ref="char:EOLhyphen"/>mical ſickneſs, which was ſo long continued upon the Nation, and lay ſore upon the City of <hi>London,</hi> and in the marvellous unſeaſona<g ref="char:EOLhyphen"/>bleneſs of the Spring, threatning Vs even with a deprivation of the fruits of the earth, and conſequently with a ſore famine.</p>
+            <p>That this hath been the danger hanging o<g ref="char:EOLhyphen"/>ver the head of theſe Nations, no honeſt or ingenuous man can deny. And therefore let
+<pb n="4" facs="tcp:119525-01:4"/> us now conſider in what State and Condition We are, and what the Lord by his own Arm and for his own Names ſake, hath wrought for Vs.</p>
+            <p>It is very true, We are not yet ſetled, but it hath fared with Vs as with y<hi rend="sup">e</hi> burning Buſh, though We have for theſe five Moneths laſt paſt, and longer too, been in a burning condi<g ref="char:EOLhyphen"/>tion, yet We are not conſumed. We yet live in the enjoyment of a ſweet peace, to praiſe the Lord in hope of better things: We are not yet weltring in bloud. It appears, that as God was in the midſt of the Buſh, ſo he hath been in the midſt of Vs, and therefore We are not conſumed. He diſappointed the Inva<g ref="char:EOLhyphen"/>ſion, by giving Vs timely notice of the Enemies preparations, and of the place thereof; by means of which Our Ships were layed to break their deſigne. He diſcovered to Vs their attempts to gain Our Sea-gariſons into their hands, and diſappointed them. He re<g ref="char:EOLhyphen"/>vealed the conſpiracies in the Counties in order to Inſurrections, and prevented them. He brought to light alſo the bloudy and helliſh de<g ref="char:EOLhyphen"/>ſign for the deſtruction of the City of <hi>London</hi> by fire and ſword, and hath brought the guilty perſons under judgement for the ſame.</p>
+            <p>He hath given Our Souldiery a ſpirit of union, of honeſty and integrity, ſo that, not<g ref="char:EOLhyphen"/>withſtanding the great temptations of want upon them, and the contrivements to divide them, to the praiſe of God We ſpeak it, they retain that good old ſpirit y<hi rend="sup">t</hi> hath carried them through all their difficulties. Thoſe that have had too much diſtemper upon them, through murmuring and diſcontents, are We hope (at
+<pb n="5" facs="tcp:119525-01:4"/> leaſt ſome of them) ſenſible of the evil there<g ref="char:EOLhyphen"/>of, and inſtead thereof both Counties and Cities have teſtified a very contrary ſpirit, a ſpirit owning mercies, bleſsing the Lord for them, and thirſting after the continuance of them, and for a juſt ſettlement. As for that ſore Viſitation, how hath the Lord, upon the prayers of his poor People, ceaſed that? and tis not without remark, that the two weeks Bills of Mortality, immediately after the Faſt upon that occaſion, were brought to the half of what they were the week before, and did amount not to more diſcernably then in the healthieſt times. And as to the evils threatned by the unſeaſonableneſs of the ſpring, the Lord hath ſo contradicted our fears, that We are all of Vs to be convinced by ſence, that the hopes of greater plenty hath been ſeldom ſeen upon the face of the Earth.</p>
+            <p>And laſtly in that place where the Enemy layd all his deſigns from whence to invade Vs, and to give Vs trouble, and had brought it to that paſs for the heightning of their con<g ref="char:EOLhyphen"/>fidence both there and here, that they were ready even to triumph, as having as good as obtained their wiſhes, even there hath the great God abaſed them, and brought them low in a ſignal victory gained by the <hi>French</hi> and Vs over them: In which ſucceſs the <hi>French</hi> themſelves have owned much to the honour of the <hi>Engliſh</hi> Nation, not without admiration, obſerving that the <hi>Engliſh</hi> on Our part ſhould behave themſelves with ſo much valour and undaunted reſolution, and the <hi>Engliſh</hi> on <hi>Charls Stuarts</hi> part more cowardly then any in the <hi>Spaniſh</hi> Army. The Lord alſo hath in the ſame
+<pb n="6" facs="tcp:119525-01:5"/> place given Vs a Port Town, not the worſt in <hi>Flanders,</hi> which We beg we may make uſe of to the glory of God, and the good of the Chri<g ref="char:EOLhyphen"/>ſtian cauſe. Theſe things being thus, how could We forbear, for the honour of God, to give you a remembrance of them? And how can you and We forbear the returning of our humbleſt and heartieſt thanks to the Lord? How can We refraine any longer from break<g ref="char:EOLhyphen"/>ing forth into the high praiſes of Our God, for he is good, for his mercy endureth for ever? Let the redeemed of the Lord ſay ſo; Let Iſ<g ref="char:EOLhyphen"/>rael now ſay ſo, Let them now that fear the Lord ſay, that his mercy endureth for ever. And when We have with our mouthes and with our hearts thus bleſſed God, let Vs like a People bleſſed by him, keep in our hearts a thankfull remembrance of theſe, and all other Our mercies, giving glory to God and Chriſt through the ſpirit, ſeeking the Peace and the truth for evermore.</p>
+            <p>We have therefore thought fit to appoint <hi>Wedneſday</hi> y<hi rend="sup">e</hi> one &amp; twentieth day of <hi>July</hi> inſtant to be a day of Publique Thanſgiving unto the Lord for theſe great and eminent mercies, to be obſerved in all places within <hi>England, Wales</hi> and Town of <hi>Berwick</hi> upon <hi>Tweed,</hi> and do Com<g ref="char:EOLhyphen"/>mand and require all Miniſters and Paſtors to give notice thereof in their Congregations on the Lords-day next before the ſaid day of Thankſgiving, and that upon the ſaid day of Thankſgiving they do read this Declaration in their reſpective Congregations; And We do hereby prohibite the keeping of all Fairs and Markets upon the day aforeſaid.</p>
+            <closer>
+               <dateline>
+                  <hi>Given at White-hall</hi>
+                  <date>
+                     <hi>this third day of <hi>July,</hi> 1658.</hi>
+                  </date>
+               </dateline>
+            </closer>
+            <pb facs="tcp:119525-01:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
